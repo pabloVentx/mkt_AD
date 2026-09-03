@@ -1,5 +1,5 @@
 # mkt_AD
-Herramienta útil para entornos de Active Directory, para agilizar la organización y limpieza de nuestro entorno de trabajo.
+Herramienta útil para entornos de Active Directory, para agilizar la organización y limpieza de nuestro entorno de trabajo. Inspirado en la herramienta de s4vitar "mkt".
 
 ## ¿COMO USARLO DIRECTAMENTE DESDE NUESTRA SHELL?
 
