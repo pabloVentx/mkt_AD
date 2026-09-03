@@ -3,3 +3,8 @@ Herramienta útil para entornos de Active Directory, para agilizar la organizaci
 
 ## ¿COMO USARLO?
 
+Primero debemos identificar que tipo de shell tenemos para ello:
+
+’’’
+echo $SHELL
+’’’
