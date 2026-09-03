@@ -15,7 +15,7 @@ Luego dependiendo del tipo de shell, por ejemplo **zsh**, nos metemos dentro:
 nano ~/.zshrc
 ```
 
-Alfinal del todo pegamos el código de ![](mkt_AD)[https://github.com/pabloVentx/mkt_AD/blob/main/mkt_AD], guardamos y salimos. Seguidamente recargamos la configuración:
+Alfinal del todo pegamos el código de ![](https://github.com/pabloVentx/mkt_AD/blob/main/mkt_AD)[mkt_AD], guardamos y salimos. Seguidamente recargamos la configuración:
 
 ```
 source ~/.zshrc
