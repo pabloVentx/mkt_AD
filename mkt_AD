@@ -1,3 +1,3 @@
 function mkt(){
-mkdir {nmap,enumeracion,content,wordlists,hashes, bloodhound}
+mkdir {nmap,enumeracion,content,wordlists,hashes,bloodhound}
 }
