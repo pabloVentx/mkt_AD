@@ -15,10 +15,6 @@ Luego dependiendo del tipo de shell, por ejemplo **zsh**, nos metemos dentro:
 sudo nano ~/.zshrc
 ```
 
-Ejecutamos la herramienta:
-
-~/.zshrc```
-
 Alfinal del todo pegamos el código, guardamos y salimos. Seguidamente recargamos la configuración:
 
 ```
